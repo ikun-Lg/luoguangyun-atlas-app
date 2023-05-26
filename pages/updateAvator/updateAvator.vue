@@ -1,0 +1,23 @@
+<template>
+	<view>
+		<form action="http://cloudapi.luoguang.icu:9000/api/users/portraitfile?iduser=16" method="post"
+			enctype="multipart/form-data">
+			<input type="file" name="portrait" accept="image/*">
+			<button>点击</button>
+		</form>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+
+			};
+		}
+	}
+</script>
+
+<style lang="scss">
+
+</style>

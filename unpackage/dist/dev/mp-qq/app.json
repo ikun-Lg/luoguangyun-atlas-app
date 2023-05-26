@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/welcome/welcome",
+    "pages/signIn/signIn",
+    "pages/loginIn/loginIn",
+    "pages/user/user",
+    "pages/imageDetail/imageDetail",
+    "pages/updateAvator/updateAvator",
+    "pages/updateImage/updateImage"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "落光云图册",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "fix-2648": "/fix-2648"
+  }
+}

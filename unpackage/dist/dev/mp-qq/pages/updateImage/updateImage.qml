@@ -1,0 +1,1 @@
+<view class="updateImage data-v-46abe4ac"><view class="formBox data-v-46abe4ac"><upload-file vue-id="46abd0f6-1" url="{{url}}" accept="{{accept}}" data-event-opts="{{[['^upFileChange',[['upFileChange']]]]}}" bind:upFileChange="__e" class="data-v-46abe4ac" bind:__l="__l"></upload-file></view></view>
